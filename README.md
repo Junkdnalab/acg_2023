@@ -285,19 +285,19 @@ Frequently asked questions or topics of confusion will be addressed in the subse
 
 ---
 
-### July 28th *Analysis of the Microbiome* (Vujkovic-Cvijin)
+### July 28th - Aug 4th *Analysis of the Microbiome* (Vujkovic-Cvijin)
 
 **Lecture topics:**
 
 16S rRNA sequence data processing and analysis
 
-**Homework Assignment 9:** Follow and complete the tutorial for
+**Homework Assignment 8:** Follow and complete the tutorial for
 [dada2](https://benjjneb.github.io/dada2/tutorial.html) prior to July
 28th. Please also install the following R packages: vegan, phyloseq, lmerTest, lme4, ggplot2, dplyr, ape, reshape2
 
 ---
 
-### August 4th *Visualization and Color Palettes* (Coetzee)
+### August 11th *Visualization and Color Palettes* (Coetzee)
 
 **Lecture topics:**
 
@@ -318,21 +318,6 @@ TBD
 - [THE VISUAL DISPLAY OF QUANTITATIVE INFORMATION](https://www.edwardtufte.com/tufte/books_vdqi)
 - [Data Visualization: A Practical Introduction](https://kieranhealy.org/publications/dataviz/)
 
----
-
-### August 11th *Biological enrichment* (Hazelett)
-
-**Lecture Slides**
-
-TBD 
-
-<!---
-[Lecture 11](https://docs.google.com/presentation/d/1_cATSNGzHAaphTXfKcsJ8SzNST4WQMtsqcbsxTg5VGw/edit?usp=sharing)
---->
-
----
-
-
 ### Schedule and Due Dates:
 
 | day | date  | lecturer        | topic                                                             | due   |
@@ -347,6 +332,6 @@ TBD
 | Friday | 07/07 | COETZEE | scRNA-seq I (single sample) | [Assignment 6](https://junknalab.github.io/acg_2023/assignments/Homework_6.Rmd) |
 | Friday | 07/14 | COETZEE | scRNA-seq II (patient cohort) | |
 | Friday | 07/21 | BREAK | | Assignment 8 |
-| Friday | 07/28 | VUJKOVIC-CVIJIN | Microbiome | [Assignment 7](https://junkdnalab.github.io/acg_2023/assignments/Homework7.Rmd) |
-| Friday | 08/04 | HAZELETT | Biological Enrichment | Assignmnet 9 |
-| Friday | 08/11 | COETZEE | Visualization & Color | Assignment 10 |
+| Friday | 07/28 | VUJKOVIC-CVIJIN | Microbiome I | [Assignment 7](https://junkdnalab.github.io/acg_2023/assignments/Homework7.Rmd) |
+| Friday | 08/04 | VUJKOVIC-CVIJIN | Microbiome II | Assignmnet 8 |
+| Friday | 08/11 | COETZEE | Visualization & Color | Assignment 9 |
