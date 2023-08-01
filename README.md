@@ -299,6 +299,10 @@ https://www.dropbox.com/scl/fo/eepu0rvg25n4ycml7livv/h?rlkey=yedzeixm8192u9wn9zg
 
 [5 min feedback July 28](https://docs.google.com/forms/d/e/1FAIpQLScmpAbS7erfxXDEUoyYtEI9ac0mPWvf9PlFYnXX9XgRqi7zBg/viewform?usp=sf_link)
 
+[lecture slides](https://github.com/Junkdnalab/acg_2023/blob/main/lectures/230725%20bioinf_slides_c.pdf)
+
+[Microbiome Analysis Part 1 Homework](https://github.com/Junkdnalab/acg_2023/blob/main/assignments/Homework8.docx)
+
 ---
 
 ### August 11th *Visualization and Color Palettes* (Coetzee)
