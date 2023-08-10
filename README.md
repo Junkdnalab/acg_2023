@@ -285,7 +285,7 @@ Frequently asked questions or topics of confusion will be addressed in the subse
 
 ---
 
-### July 28th - Aug 4th *Analysis of the Microbiome* (Vujkovic-Cvijin)
+### July 28th *Analysis of the Microbiome, part I* (Vujkovic-Cvijin)
 
 **Lecture topics:**
 
@@ -303,7 +303,13 @@ https://www.dropbox.com/scl/fo/eepu0rvg25n4ycml7livv/h?rlkey=yedzeixm8192u9wn9zg
 
 [Microbiome Analysis Part 1 Homework](https://github.com/Junkdnalab/acg_2023/blob/main/assignments/Homework8.docx)
 
+---
+
+### Aug 4th *Analysis of the Microbiome, part II* (Vujkovic-Cvijin)
+
 [5 min feedback Aug 4](https://docs.google.com/forms/d/e/1FAIpQLScd0mNCFuoH5QpHo77-HpY05xnUCWbi2mmeXjqAxmPuPnzlhw/viewform?usp=sf_link)
+
+[lecture slides](https://github.com/Junkdnalab/acg_2023/blob/main/lectures/230804%20bioinf_slides_c_ptII.pdf)
 
 [Microbiome Analysis Part 2 Homework](https://github.com/Junkdnalab/acg_2023/blob/main/assignments/Homework9.docx)
 
