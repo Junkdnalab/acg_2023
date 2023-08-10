@@ -301,7 +301,7 @@ https://www.dropbox.com/scl/fo/eepu0rvg25n4ycml7livv/h?rlkey=yedzeixm8192u9wn9zg
 
 [lecture slides](https://github.com/Junkdnalab/acg_2023/blob/main/lectures/230725%20bioinf_slides_c.pdf)
 
-[Microbiome Analysis Part 1 Homework](https://github.com/Junkdnalab/acg_2023/blob/main/assignments/Homework8.docx)
+[Microbiome Analysis Part 1 Homework, due August 15](https://github.com/Junkdnalab/acg_2023/blob/main/assignments/Homework8.docx)
 
 ---
 
