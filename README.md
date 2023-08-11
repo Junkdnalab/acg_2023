@@ -325,11 +325,11 @@ https://www.dropbox.com/scl/fo/eepu0rvg25n4ycml7livv/h?rlkey=yedzeixm8192u9wn9zg
 
 **Lecture slides:**
 
-TBD
+[Lecture 12](https://docs.google.com/presentation/d/1OsDmRKvbfmQnROLk8DDxSWyR-TR8A-hwnsXZf0Xy-JA/edit?usp=sharing)
 
-<!---
-[Lecture 12](https://docs.google.com/presentation/d/1y4UKosh58zD5C02yFsKFTTLPtOYLNLEaBm69y_srinw/edit?usp=sharing)
---->
+[5 minute feedback](https://docs.google.com/forms/d/e/1FAIpQLSdyW6BqPYI9oWEDGrVunUt6PkUWiCVRbAa60y0qnSXWnH6IeQ/viewform?usp=sf_link)
+
+[Overall Course Feedback](https://docs.google.com/forms/d/e/1FAIpQLSdca6YQqxAmnjMVppXpzhyAdaGNVWPU54KTPAK3WxABe9Bo5Q/viewform?usp=sf_link)
 
 **Helpful Books on the Subject:**
 
